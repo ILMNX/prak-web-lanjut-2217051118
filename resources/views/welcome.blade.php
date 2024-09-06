@@ -38,7 +38,7 @@
                     </svg>
                     
                 </div>
-                <h2 class="mt-6 text-xl text-center text-gray-900 dark:text-white" style="font-size:40px;">GILBERT HASIHOLAN SIBUEA - 2217051118</h2>
+                <h2 class="mt-6 text-xl text-center text-gray-900 dark:text-white" style="font-size:40px;">GILBERT HASIHOLAN SIBUEA - 2217051118 - D</h2>
 
 
                 <div class="mt-16">
